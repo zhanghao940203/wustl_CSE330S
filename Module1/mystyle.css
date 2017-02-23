@@ -1,0 +1,26 @@
+#b{
+	background-color:#ADD8E6;
+}
+#font1{
+	text-align:left;
+	font:50px/50px Verdana, sans-serif;
+	color:red;
+	text-shadow:2px 2px 0 #000000;
+}
+#font3{
+	text-align:left;
+	font:50px/50px Verdana, sans-serif;
+	color:red;
+	text-shadow:2px 2px 0 #000000;
+}
+#font2{
+	text-align:center;
+	font:30px/30px Verdana, sans-serif;
+	color:#800080;
+	text-shadow:2px 2px 0 #000000;
+}
+#img{
+	vertical-align:middle;
+}
+	
+	
